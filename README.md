@@ -1,1 +1,1 @@
-Hello
+This project presents an offline music player developed using HTML, CSS and vanilla Javascript, aimed at enhancing fluency & grasp over various Javascript functionalities. The downloaded songs are no copyright songs stored inside a folder.
